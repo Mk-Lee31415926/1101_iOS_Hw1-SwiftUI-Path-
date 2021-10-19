@@ -12,6 +12,7 @@
 		55DEDFB027192CB600109DBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55DEDFAF27192CB600109DBD /* Preview Assets.xcassets */; };
 		55DEDFBC27192D2000109DBD /* Spidyeye.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DEDFBB27192D2000109DBD /* Spidyeye.swift */; };
 		55DEDFC027192D8200109DBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DEDFBF27192D8200109DBD /* ContentView.swift */; };
+		55DEDFC3271ED9C800109DBD /* Spidypoly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55DEDFC2271ED9C800109DBD /* Spidypoly.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		55DEDFB127192CB600109DBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55DEDFBB27192D2000109DBD /* Spidyeye.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Spidyeye.swift; sourceTree = "<group>"; };
 		55DEDFBF27192D8200109DBD /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		55DEDFC2271ED9C800109DBD /* Spidypoly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spidypoly.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				55DEDFA827192CAB00109DBD /* m4rcusiOS1101rebuildApp.swift */,
 				55DEDFBB27192D2000109DBD /* Spidyeye.swift */,
+				55DEDFC2271ED9C800109DBD /* Spidypoly.swift */,
 				55DEDFBF27192D8200109DBD /* ContentView.swift */,
 				55DEDFAC27192CB600109DBD /* Assets.xcassets */,
 				55DEDFB127192CB600109DBD /* Info.plist */,
@@ -144,6 +147,7 @@
 				55DEDFBC27192D2000109DBD /* Spidyeye.swift in Sources */,
 				55DEDFA927192CAB00109DBD /* m4rcusiOS1101rebuildApp.swift in Sources */,
 				55DEDFC027192D8200109DBD /* ContentView.swift in Sources */,
+				55DEDFC3271ED9C800109DBD /* Spidypoly.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
